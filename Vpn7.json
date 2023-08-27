@@ -1,0 +1,48 @@
+{
+  "ConnectionType": "off",
+  "VpnUserName"   :"A22QMRz5DmgycCDgRrmjYKxo",
+  "VpnPassword"   :"Nm34W6hYbpz1bzWAWNmweWGN",
+  "VpnFiles": [
+    {
+      "vpnName": "Etats-Unis",
+      "vpnFile": "https://raw.githubusercontent.com/fluxappsltd/Black-Russia-RP/main/us6953.nordvpn.com.udp.ovpn",
+      "vpnFlag":"https://developer.oneconnect.top/flag/ca.png"
+    },
+    {
+      "vpnName": "United kingdom",
+      "vpnFile": "https://raw.githubusercontent.com/fluxappsltd/Black-Russia-RP/main/uk2250.nordvpn.com.udp.ovpn",
+      "vpnFlag":"https://developer.oneconnect.top/flag/us.png"
+    },
+    {
+      "vpnName": "Canada",
+      "vpnFile": "https://raw.githubusercontent.com/fluxappsltd/Black-Russia-RP/main/ca1636.nordvpn.com.udp.ovpn",
+      "vpnFlag":"https://developer.oneconnect.top/flag/us.png"
+    },
+    {
+      "vpnName": "Germany",
+      "vpnFile": "https://raw.githubusercontent.com/fluxappsltd/Black-Russia-RP/main/de1039.nordvpn.com.udp.ovpn",
+      "vpnFlag":"https://developer.oneconnect.top/flag/us.png"
+    },
+    {
+      "vpnName": "France",
+      "vpnFile": "https://raw.githubusercontent.com/fluxappsltd/Black-Russia-RP/main/fr807.nordvpn.com.udp.ovpn",
+      "vpnFlag" :"https://developer.oneconnect.top/flag/us.png"
+    },
+    {
+      "vpnName": "Australia",
+      "vpnFile": "https://raw.githubusercontent.com/fluxappsltd/Black-Russia-RP/main/au600.nordvpn.com.udp.ovpn",
+      "vpnFlag" :"https://developer.oneconnect.top/flag/us.png"
+    },
+    {
+      "vpnName": "New zealand",
+      "vpnFile": "https://raw.githubusercontent.com/fluxappsltd/Black-Russia-RP/main/nz87.nordvpn.com.udp.ovpn",
+      "vpnFlag" :"https://developer.oneconnect.top/flag/us.png"
+    },
+    {
+      "vpnName": "Austria",
+      "vpnFile": "https://raw.githubusercontent.com/fluxappsltd/Black-Russia-RP/main/at130.nordvpn.com.udp.ovpn",
+      "vpnFlag" :"https://developer.oneconnect.top/flag/us.png"
+    }
+   
+  ]
+}
