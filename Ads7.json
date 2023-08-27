@@ -26,58 +26,58 @@
  
   "MyList": [
     {
-      "title": "------",
+      "title": "Download the game",
       "image": "https://raw.githubusercontent.com/fluxappsltd/UnturnedMobile/main/1.png",
       "native" : true,
       "paragraph": [
-        "1- +++++++",
+        "1- Unturned is available on Steam for both Windows and Mac OS X, and it is free to download. Simply follow the Steam client's instructions and install the game.",
         "https://raw.githubusercontent.com/fluxappsltd/UnturnedMobile/main/1.1.png",
-        "2- +++++++",
+        "2- Choose your game mode: Unturned offers several game modes, including singleplayer, multiplayer, and arena. Singleplayer is ideal for getting a grasp on the game, so click Play > Singleplayer to start.",
         "https://raw.githubusercontent.com/fluxappsltd/UnturnedMobile/main/1.2.png",
-        "3- ++++++++",
+        "3- Collect supplies: Start collecting supplies immediately after spawning. Look for backpacks, food, drinks, and weapons to help you survive.",
           "https://raw.githubusercontent.com/fluxappsltd/UnturnedMobile/main/1.3.png"
           
       ]
     },
     {
-      "title": "------",
+      "title": "Find a safe place",
       "image": "https://raw.githubusercontent.com/fluxappsltd/UnturnedMobile/main/2.png",
       "native" : true,
        "paragraph": [
-        "1- ++++++++",
-        "2- ++++++++",
+        "1- Find a safe place: Find a safe place to set up your base. This could be a house, a barn, or any other structure that can be fortified.",
+        "2- Build your base: Once you have found a safe place, start building your base. Use materials like wood, metal, and stone to create walls, doors, and other structures to protect yourself from zombies and other players.",
         "https://raw.githubusercontent.com/fluxappsltd/UnturnedMobile/main/2.1.png",
-        "3- ++++++++",
+        "3- Stay alive: To stay alive, you need to keep your hunger, thirst, and health levels up. Eat food and drink water to keep your hunger and thirst levels up, and use bandages and medicine to heal yourself when injured.",
         "https://raw.githubusercontent.com/fluxappsltd/UnturnedMobile/main/2.2.png",
-        "4- +++++++++"
+        "4- Avoid zombies: Zombies are everywhere in Unturned, and they will attack you on sight. Avoid them as much as possible, or use weapons to kill them"
       ]
     },
     {
-      "title": "-----",
+      "title": "Play with others",
       "image": "https://raw.githubusercontent.com/fluxappsltd/UnturnedMobile/main/3.png",
       "native" : true,
       "paragraph": [
-        "1- +++++++",
+        "1- Play with others: Playing with others can be more fun and help you survive longer. Join a multiplayer server or invite friends to play with you.",
         "https://raw.githubusercontent.com/fluxappsltd/UnturnedMobile/main/3.1.png",     
-        "2- +++++++",
-        "3- +++++++",
+        "2- Learn the map: The map in Unturned is large and can be overwhelming for new players.",
+        "3- Take some time to explore and learn the map, so you can find important locations like towns, military bases, and other players' bases.",
         "https://raw.githubusercontent.com/fluxappsltd/UnturnedMobile/main/3.2.png",
-        "4- +++++++"
+        "4- Have fun: Unturned is a game, so remember to have fun while playing. Don't take it too seriously, and enjoy the experience."
       ]
     
         
     },
     {
-      "title": "---------",
+      "title": "two main game modes",
       "image": "https://raw.githubusercontent.com/fluxappsltd/UnturnedMobile/main/4.png",
       "native" : true,
       "paragraph": [
-        "1- +++++",
+        "1- Survival: This is the primary game mode in Unturned. In survival mode, players must gather resources, craft items, build bases, and survive the zombie apocalypse.",
        "https://raw.githubusercontent.com/fluxappsltd/UnturnedMobile/main/4.1.png",
-        "2- +++++",
-        "3- +++++",
+        "2- The goal is to stay alive as long as possible and fend off hordes of zombies while managing hunger, thirst, and health levels.",
+        "3- Arena: The arena game mode is a fast-paced, PvP-focused mode where players compete against each other in a battle royale-style setting. Players start with limited resources and must scavenge for weapons, ammunition, and supplies while eliminating other players. The last player or team standing wins the match.",
         "https://raw.githubusercontent.com/fluxappsltd/UnturnedMobile/main/4.2.png",
-        "4- ++++++"
+        "4- hese game modes offer different gameplay experiences and cater to different playstyles. Whether you prefer cooperative survival or intense PvP battles, Unturned has something for everyone."
         
       ]
         
